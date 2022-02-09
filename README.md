@@ -2,7 +2,7 @@
 # iPlanet API
 
 This is an API created for add, get and delete planets from a database on Mongo Atlas.
-Still on localhost but we are pending to deploy this on heroku.
+Still on localhost but we are pending to deploy it on heroku.
 
 
 
